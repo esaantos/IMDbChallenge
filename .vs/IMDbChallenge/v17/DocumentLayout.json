@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Everson\\Documents\\Projects\\IMDbChallenge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAAA8A63-EF74-4843-9A48-1E596E5EBDD3}|IMDbCrawler\\IMDbCrawler.csproj|c:\\users\\everson\\documents\\projects\\imdbchallenge\\imdbcrawler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAAA8A63-EF74-4843-9A48-1E596E5EBDD3}|IMDbCrawler\\IMDbCrawler.csproj|solutionrelative:imdbcrawler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAAA8A63-EF74-4843-9A48-1E596E5EBDD3}|IMDbCrawler\\IMDbCrawler.csproj|c:\\users\\everson\\documents\\projects\\imdbchallenge\\imdbcrawler\\utils\\csvexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAAA8A63-EF74-4843-9A48-1E596E5EBDD3}|IMDbCrawler\\IMDbCrawler.csproj|solutionrelative:imdbcrawler\\utils\\csvexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAAA8A63-EF74-4843-9A48-1E596E5EBDD3}|IMDbCrawler\\IMDbCrawler.csproj|c:\\users\\everson\\documents\\projects\\imdbchallenge\\imdbcrawler\\services\\imdbscraper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAAA8A63-EF74-4843-9A48-1E596E5EBDD3}|IMDbCrawler\\IMDbCrawler.csproj|solutionrelative:imdbcrawler\\services\\imdbscraper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Everson\\Documents\\Projects\\IMDbChallenge\\IMDbCrawler\\Program.cs",
+              "RelativeDocumentMoniker": "IMDbCrawler\\Program.cs",
+              "ToolTip": "C:\\Users\\Everson\\Documents\\Projects\\IMDbChallenge\\IMDbCrawler\\Program.cs",
+              "RelativeToolTip": "IMDbCrawler\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T02:27:25.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CsvExporter.cs",
+              "DocumentMoniker": "C:\\Users\\Everson\\Documents\\Projects\\IMDbChallenge\\IMDbCrawler\\Utils\\CsvExporter.cs",
+              "RelativeDocumentMoniker": "IMDbCrawler\\Utils\\CsvExporter.cs",
+              "ToolTip": "C:\\Users\\Everson\\Documents\\Projects\\IMDbChallenge\\IMDbCrawler\\Utils\\CsvExporter.cs",
+              "RelativeToolTip": "IMDbCrawler\\Utils\\CsvExporter.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T02:27:11.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ImdbScraper.cs",
+              "DocumentMoniker": "C:\\Users\\Everson\\Documents\\Projects\\IMDbChallenge\\IMDbCrawler\\Services\\ImdbScraper.cs",
+              "RelativeDocumentMoniker": "IMDbCrawler\\Services\\ImdbScraper.cs",
+              "ToolTip": "C:\\Users\\Everson\\Documents\\Projects\\IMDbChallenge\\IMDbCrawler\\Services\\ImdbScraper.cs",
+              "RelativeToolTip": "IMDbCrawler\\Services\\ImdbScraper.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowDoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T02:27:03.224Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

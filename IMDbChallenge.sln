@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMDbCrawler", "IMDbCrawler\IMDbCrawler.csproj", "{BAAA8A63-EF74-4843-9A48-1E596E5EBDD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMDbRPA", "IMDbRPA\IMDbRPA.csproj", "{303A0933-5D75-42EA-9782-77F168C6099B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAAA8A63-EF74-4843-9A48-1E596E5EBDD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAAA8A63-EF74-4843-9A48-1E596E5EBDD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAAA8A63-EF74-4843-9A48-1E596E5EBDD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAAA8A63-EF74-4843-9A48-1E596E5EBDD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{303A0933-5D75-42EA-9782-77F168C6099B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{303A0933-5D75-42EA-9782-77F168C6099B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{303A0933-5D75-42EA-9782-77F168C6099B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{303A0933-5D75-42EA-9782-77F168C6099B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

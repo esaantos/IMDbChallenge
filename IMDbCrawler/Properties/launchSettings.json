@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "IMDbCrawler": {
+        "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+        "commandName": "Docker"
+    }
+  }
+}
